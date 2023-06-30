@@ -6,10 +6,10 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: linear-gradient(red,yellow);
   background-size: cover;
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 100%;
 }
 
@@ -25,23 +25,23 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #f6f6f6;
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 4.5em;
   margin-bottom: 0;
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 2.5em;
   margin-top: .5em;
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
-  font-size: 1.5em;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 2.5em;
   margin-top: .5em;
 }
 
@@ -52,6 +52,7 @@ img {
 }
 
 p {
+  color: blue;
   font-size: 1em;
 }
 
